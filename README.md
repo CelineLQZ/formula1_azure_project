@@ -55,9 +55,9 @@ Incremental ingestion is implemented for the last four files. Each ingestion not
 
 ### 🔐 Secure Authentication
 - **App Registration**: `formula1`
-  - Client ID: `66cb41b6-d563-48ee-af31-a740b61a66ac`
-  - Tenant ID: `e8eb420d-01bf-4c85-8592-74d2e10ff442`
-  - Secret Value: stored securely in Key Vault
+  - Client ID: 
+  - Tenant ID: 
+  - Secret Value: 
 - **IAM Role**: `Storage Blob Data Contributor` assigned to app
 
 ---
